@@ -1,9 +1,12 @@
 # Keras_DL_API
 ## This repositry loads a pre-trained ResNet50 model and uses it to predict the class of objects in the pictures you feed it with.
+## Python version 3.6.7
 
 
 Run the following code in the root folder:
-
+```
+pip install requirements.txt
+```
 ```
 python predict_app.py
 ```
