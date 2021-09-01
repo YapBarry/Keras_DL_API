@@ -1,4 +1,6 @@
 # Keras_DL_API
+## This repositry loads a pre-trained ResNet50 model and uses it to predict the class of objects in the pictures you feed it with.
+
 
 Run the following code in the root folder:
 
